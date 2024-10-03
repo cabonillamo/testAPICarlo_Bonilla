@@ -5017,11 +5017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ale-b\\source\\repos\\TestCarlo_Bonilla\\TestCarlo_Bonilla\\TestCarlo_Bonilla.csproj",
+      "projectUniqueName": "C:\\Users\\ale-b\\Desktop\\testAPICarlo_Bonilla\\TestCarlo_Bonilla\\TestCarlo_Bonilla.csproj",
       "projectName": "TestCarlo_Bonilla",
-      "projectPath": "C:\\Users\\ale-b\\source\\repos\\TestCarlo_Bonilla\\TestCarlo_Bonilla\\TestCarlo_Bonilla.csproj",
+      "projectPath": "C:\\Users\\ale-b\\Desktop\\testAPICarlo_Bonilla\\TestCarlo_Bonilla\\TestCarlo_Bonilla.csproj",
       "packagesPath": "C:\\Users\\ale-b\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ale-b\\source\\repos\\TestCarlo_Bonilla\\TestCarlo_Bonilla\\obj\\",
+      "outputPath": "C:\\Users\\ale-b\\Desktop\\testAPICarlo_Bonilla\\TestCarlo_Bonilla\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ale-b\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G+BkG9ZhiFA=",
+  "dgSpecHash": "Jwh/eK43y0w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ale-b\\source\\repos\\TestCarlo_Bonilla\\TestCarlo_Bonilla\\TestCarlo_Bonilla.csproj",
+  "projectFilePath": "C:\\Users\\ale-b\\Desktop\\testAPICarlo_Bonilla\\TestCarlo_Bonilla\\TestCarlo_Bonilla.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ale-b\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ale-b\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
