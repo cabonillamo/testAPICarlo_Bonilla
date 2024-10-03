@@ -1,0 +1,6 @@
+@TestCarlo_Bonilla_HostAddress = http://localhost:5068
+
+GET {{TestCarlo_Bonilla_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
