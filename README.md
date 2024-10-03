@@ -96,3 +96,7 @@ En el Response body vemos el resultado.
 
 ## Conclusiones
 Este proyecto demuestra la capacidad de implementar un algoritmo de asignación utilizando .NET y T-SQL, mostrando un manejo efectivo de bases de datos y desarrollo de API.
+
+## Author
+By [Carlo Bonilla](https://github.com/cabonillamo).
+
